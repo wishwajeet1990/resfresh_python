@@ -1,0 +1,4 @@
+print("What is module?")
+print("A module is a file containing \
+Python definitions and statements. \
+The file name is the module name with the suffix .py added.")
